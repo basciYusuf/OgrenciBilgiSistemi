@@ -1,0 +1,1 @@
+Otomasyon Sistemimizde Ekstradan istenildiği kadar öğrenci eklenebilir.
